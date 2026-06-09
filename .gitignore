@@ -34,7 +34,6 @@ checkpoints/
 *.log
 
 # Dataset
-data/
 *.zip
 *.tar
 *.tar.gz
@@ -63,3 +62,5 @@ coverage.xml
 data/DIOR-R
 .claude
 .vscode
+.codegraph
+.cursor
