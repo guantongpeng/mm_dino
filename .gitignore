@@ -34,7 +34,7 @@ checkpoints/
 *.log
 
 # Dataset
-*.zip
+# *.zip
 *.tar
 *.tar.gz
 
